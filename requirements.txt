@@ -1,0 +1,5 @@
+py-cord
+deepgram-sdk
+pynacl
+python-dotenv
+openai
